@@ -23,7 +23,7 @@ data class Formacao(val nome: String, var dificuldade: Any, var conteudos: List<
     }
 }
 
-class Usuario(var nome: String, var idade: Int)
+ data class Usuario(var nome: String, var idade: Int)
 
 fun main() {
     var user1 = Usuario("Valentin", 18)
