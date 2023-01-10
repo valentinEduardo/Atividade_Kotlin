@@ -1,4 +1,6 @@
-# Atividade_Kotlin
+# Atividade_Kotlin 
+ 1)-
+
 Entendendo o Desafio
  
 Desafio de Projeto criado para avaliação do conteúdo técnico explorado no repositório aprenda-kotlin-com-exemplos. Nesse contexto, iremos abstrair o seguinte domínio de aplicação:
